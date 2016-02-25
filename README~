@@ -1,0 +1,4 @@
+Para a execução desse trabalho, os objetos devem ser criados e instanciados na classe Main 
+como exemplificados no código. O tempo de durabilidade do jogo é indicado pela variável
+"TEMPO_JOGO", instanciada logo no início da Main.
+Após os objetos criados, executar o projeto.

@@ -1,0 +1,6 @@
+Para a execução desse trabalho, os objetos de equipe, campos petrolíferos e afins foram criados e instanciados na classe Main. 
+O tempo de durabilidade do jogo é indicado pela variável "TEMPO_JOGO", instanciada logo no início da Main.
+Após os objetos criados, executar o projeto.
+
+Para maiores informações sobre as regras, checar Descrição.
+Projeto funcional, porém não finalizado esteticamente.
